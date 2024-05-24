@@ -360,6 +360,7 @@
 		"webpack-cli": "^4.7.2"
 	},
 	"dependencies": {
+		"memoizee": "0.4.15",
 		"glob": "^9.3.1",
 		"simple-socks": "git+https://github.com/jeanp413/simple-socks#main",
 		"socks": "^2.5.0",
